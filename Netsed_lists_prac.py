@@ -15,8 +15,8 @@ basket = [fruits,vegetables,fruits]
 # print(basket[2][0])
 
 # loop through a single list
-# for item in fruits:
-#     print(item)
+for item in fruits:
+    print(item + " pie")
 
 # loop through a nested list
 #for item in basket:
